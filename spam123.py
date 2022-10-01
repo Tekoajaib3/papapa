@@ -14,9 +14,9 @@ def mengetik(z):
       time.sleep(0.02)
 
 os.system('clear')
-print ('\033[36;1mwajib subscribe...!!')
+print ('\033[36;1mwajib di pollow ya ges...!!')
 sleep(2)
-os.system('termux-open-url https://youtube.com/channel/UCGUVwlFIMdczqr_YK4t9sAg')
+os.system('termux-open-url https://www.instagram.com/daffadnm/')
 
 k = 0
 
@@ -24,19 +24,20 @@ sleep(3)
 os.system('clear')
 #BANNER
 print ("")
-mengetik("\033[31;1m   _____                          _       __")     
+mengetik("\033[31;1m   _____                          _       __     ")     
 mengetik("\033[31;1m  / ___/____  ____ _____ ___     | |     / /___ _")
 mengetik("\033[31;1m \__ \/ __ \/ __ `/ __ `__ \     | | /| / / __ `/")
 mengetik("\033[33;1m ___/ / /_/ / /_/ / / / / / /    | |/ |/ / /_/ / ")
-mengetik("\033[37;1m/____/ .___/\__,_/_/ /_/ /_/     |__/|__/\__,_/ ") 
+mengetik("\033[37;1m/____/ .___/\__,_/_/ /_/ /_/     |__/|__/\__,_/  ") 
 mengetik("\033[37;1m    /_/                                          ")
-#mau di copy
+mengetik("\033[31;1m                                                 ")
+mengetik("\033[31;1m -------------BY = MAJID GAMING 123--------------")
 #subrek dulu lur
 print ("")
 mengetik("\033[31;1m  ╔════════════════════════════════════════════════╗")
-mengetik(" \033[33;1m  \033[36;1m [•] Authour : mr.zxCyber                     \033[33;1m ")
-mengetik("\033[33;1m  \033[36;1m  [•] gitHub  : https:github.com/Zxcyber19     \033[33;1m ")
-mengetik(" \033[33;1m  \033[36;1m [•] Yotube  : zxcyber                 \033[33;1m ")
+mengetik(" \033[33;1m  \033[36;1m [•] Authour      : mr.Majidxxxxd              \033[33;1m ")
+mengetik("\033[33;1m  \033[36;1m  [•] Instagram    : MajidTamvwan123            \033[33;1m ")
+mengetik(" \033[33;1m  \033[36;1m [•] Youtube Biru : Kontolodon123              \033[33;1m ")
 mengetik("\033[31;1m  ╚════════════════════════════════════════════════╝")
 print ("")
 mengetik("\033[36;1m ╔═══════════════════════════╗")
