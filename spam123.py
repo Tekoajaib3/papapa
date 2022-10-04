@@ -16,7 +16,7 @@ def mengetik(z):
 os.system('clear')
 print ('\033[36;1mwajib di pollow ya ges...!!')
 sleep(2)
-os.system('termux-open-url https://www.instagram.com/daffadnm/')
+os.system('termux-open-url https://instagram.com/dwinan.da1')
 
 k = 0
 
@@ -31,13 +31,13 @@ mengetik("\033[33;1m ___/ / /_/ / /_/ / / / / / /    | |/ |/ / /_/ / ")
 mengetik("\033[37;1m/____/ .___/\__,_/_/ /_/ /_/     |__/|__/\__,_/  ") 
 mengetik("\033[37;1m    /_/                                          ")
 mengetik("\033[31;1m                                                 ")
-mengetik("\033[31;1m -------------BY = MAJID GAMING 123--------------")
+mengetik("\033[31;1m ---------------BY = DWINANDAxxxPY---------------")
 #subrek dulu lur
 print ("")
 mengetik("\033[31;1m  ╔════════════════════════════════════════════════╗")
-mengetik(" \033[33;1m  \033[36;1m [•] Authour      : mr.Majidxxxxd              \033[33;1m ")
-mengetik("\033[33;1m  \033[36;1m  [•] Instagram    : MajidTamvwan123            \033[33;1m ")
-mengetik(" \033[33;1m  \033[36;1m [•] Youtube Biru : Kontolodon123              \033[33;1m ")
+mengetik(" \033[33;1m  \033[36;1m [•] Authour      : mr.Dwinan                  \033[33;1m ")
+mengetik("\033[33;1m  \033[36;1m  [•] Instagram    : dwinan.da1                 \033[33;1m ")
+mengetik(" \033[33;1m  \033[36;1m [•] Youtube      : Dwigemang                  \033[33;1m ")
 mengetik("\033[31;1m  ╚════════════════════════════════════════════════╝")
 print ("")
 mengetik("\033[36;1m ╔═══════════════════════════╗")
